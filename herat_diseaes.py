@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # In[1]:
-
+#the model predict whether a patient arteries are narrowed greater than 50%
+#front-end is made by using python-tkinter
 
 import pandas as pd
 import numpy as np
